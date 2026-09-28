@@ -1,2 +1,2 @@
 # qa-automation-portfolio
-A repo to showcase my skills acquired across my quality assurance learning journey.
+A repository to showcase the skills acquired throughout my quality assurance learning journey.
